@@ -3,8 +3,8 @@ let ctx = canvas.getContext('2d');
 
 ctx.fillRect(0,0,50,50)
 
-let boardHeight = 400;
-let boardWidth = 1000;
+let boardHeight = 850;
+let boardWidth = 1550;
 let square = 50;
 
 let snakeCells = [[0,0]];
